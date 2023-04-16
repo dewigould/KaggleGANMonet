@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Datasets
-\gan-getting-started
+gan-getting-started/
